@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/yap-audio-tiktok-mcp-badge.png)](https://mseep.ai/app/yap-audio-tiktok-mcp)
+
 # TikTok MCP Service
 
 A Model Context Protocol service for TikTok video discovery and metadata extraction. This service provides a robust interface for searching TikTok videos by hashtags and retrieving trending content, with built-in anti-detection measures and error handling.
